@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b49a7971-67bb-4fe2-8d3d-052ba60419c7)Trabajo PARCIAL II
+Trabajo PARCIAL II
 
 Programación móvil
 
